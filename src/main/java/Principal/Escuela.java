@@ -5,11 +5,15 @@
 
 package Principal;
 
+import Modelo.Persona;
+
 /**
  *
  * @author FranciscoGaFe
  */
 public class Escuela {
+    
+    private Persona persona;
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
