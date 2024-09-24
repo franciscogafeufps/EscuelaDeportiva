@@ -8,7 +8,7 @@ package Modelo;
  *
  * @author FranciscoGaFe
  */
-public class Persona {
+public abstract class Persona {
     
     protected String dni;
     protected String nombre;
